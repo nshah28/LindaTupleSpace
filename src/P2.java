@@ -14,6 +14,7 @@ import java.util.concurrent.ExecutionException;
  * Created by nidhi on 4/18/17.
  */
 
+
 class postingListData {
     int term_tuple_id;
     int term_postion;
